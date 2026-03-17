@@ -1,0 +1,6 @@
+new_event_link:
+  default: "/new-topic"
+  description: "Set the link this button opens. For advanced topic creation links, see https://meta.discourse.org/t/28074 or to use the Custom Wizard Plugin, see https://meta.discourse.org/t/73345"
+new_event_icon:
+  default: "calendar-plus"
+  description: "The SVG icon to use for the button. Try any icon from https://fontawesome.com/search"
