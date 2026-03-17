@@ -1,0 +1,6 @@
+en:
+  theme_metadata:
+    description: "Adds a customizable New Event button to FullCalendar toolbar on /upcoming-events"
+  upcoming_events:
+    new_event: "New event"
+    new_event_aria: "Create a new event topic"
